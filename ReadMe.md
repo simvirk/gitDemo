@@ -12,4 +12,7 @@ git init
 #### Check status of project
 git status
 
+#### Make a commit
+git commit -m "commit message"
+
 
